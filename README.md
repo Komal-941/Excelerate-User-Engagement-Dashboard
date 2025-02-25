@@ -9,6 +9,9 @@ This Power BI dashboard provides a comprehensive analysis of user activity and e
 It answers key business questions by examining user sign-ups, opportunity participation, geographic distribution, demographic insights, and scholarship impact.  
 
 ---
+![image](https://github.com/user-attachments/assets/3d8a577d-f70c-4ed8-b749-35290d1f7dd5)
+
+---
 
 ## 🎯 Key Performance Indicators (KPIs)  
 - **18K Total Sign-Ups** on the platform  
